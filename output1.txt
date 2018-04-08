@@ -1,0 +1,744 @@
+RM schedule 
+001 Task ID: 3  pr: 1 ----- False
+001 Task ID: 0  pr: 5 ----- False
+001 Task ID: 1  pr: 2 ----- False
+001 Task ID: 2  pr: 3 ----- False
+001 Task ID: 4  pr: 15 ----- False
+*********************
+002 Task ID: 3  pr: 0 ----- True
+002 Task ID: 0  pr: 5 ----- False
+002 Task ID: 1  pr: 2 ----- False
+002 Task ID: 2  pr: 3 ----- False
+002 Task ID: 4  pr: 15 ----- False
+*********************
+003 Task ID: 3  pr: 0 ----- True
+003 Task ID: 0  pr: 4 ----- False
+003 Task ID: 1  pr: 2 ----- False
+003 Task ID: 2  pr: 3 ----- False
+003 Task ID: 4  pr: 15 ----- False
+*********************
+004 Task ID: 3  pr: 0 ----- True
+004 Task ID: 0  pr: 3 ----- False
+004 Task ID: 1  pr: 2 ----- False
+004 Task ID: 2  pr: 3 ----- False
+004 Task ID: 4  pr: 15 ----- False
+*********************
+005 Task ID: 3  pr: 0 ----- True
+005 Task ID: 0  pr: 2 ----- False
+005 Task ID: 1  pr: 2 ----- False
+005 Task ID: 2  pr: 3 ----- False
+005 Task ID: 4  pr: 15 ----- False
+*********************
+006 Task ID: 3  pr: 0 ----- True
+006 Task ID: 0  pr: 1 ----- False
+006 Task ID: 1  pr: 2 ----- False
+006 Task ID: 2  pr: 3 ----- False
+006 Task ID: 4  pr: 15 ----- False
+*********************
+007 Task ID: 3  pr: 0 ----- True
+007 Task ID: 0  pr: 0 ----- True
+007 Task ID: 1  pr: 2 ----- False
+007 Task ID: 2  pr: 3 ----- False
+007 Task ID: 4  pr: 15 ----- False
+*********************
+008 Task ID: 3  pr: 1 ----- False
+008 Task ID: 0  pr: 0 ----- True
+008 Task ID: 1  pr: 2 ----- False
+008 Task ID: 2  pr: 3 ----- False
+008 Task ID: 4  pr: 15 ----- False
+*********************
+009 Task ID: 3  pr: 0 ----- True
+009 Task ID: 0  pr: 0 ----- True
+009 Task ID: 1  pr: 2 ----- False
+009 Task ID: 2  pr: 3 ----- False
+009 Task ID: 4  pr: 15 ----- False
+*********************
+010 Task ID: 3  pr: 0 ----- True
+010 Task ID: 0  pr: 0 ----- True
+010 Task ID: 1  pr: 1 ----- False
+010 Task ID: 2  pr: 3 ----- False
+010 Task ID: 4  pr: 15 ----- False
+*********************
+011 Task ID: 3  pr: 0 ----- True
+ Task 1 is preemptive by Task 0
+011 Task ID: 0  pr: 4 ----- False
+011 Task ID: 1  pr: 1 ----- False
+011 Task ID: 2  pr: 3 ----- False
+011 Task ID: 4  pr: 15 ----- False
+*********************
+012 Task ID: 3  pr: 0 ----- True
+012 Task ID: 0  pr: 3 ----- False
+012 Task ID: 1  pr: 1 ----- False
+012 Task ID: 2  pr: 3 ----- False
+012 Task ID: 4  pr: 15 ----- False
+*********************
+013 Task ID: 3  pr: 0 ----- True
+013 Task ID: 0  pr: 2 ----- False
+013 Task ID: 1  pr: 2 ----- False
+013 Task ID: 2  pr: 3 ----- False
+013 Task ID: 4  pr: 15 ----- False
+*********************
+014 Task ID: 3  pr: 0 ----- True
+014 Task ID: 0  pr: 1 ----- False
+014 Task ID: 1  pr: 2 ----- False
+014 Task ID: 2  pr: 3 ----- False
+014 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 0 is preemptive by Task 3
+015 Task ID: 3  pr: 1 ----- False
+015 Task ID: 0  pr: 1 ----- False
+015 Task ID: 1  pr: 2 ----- False
+015 Task ID: 2  pr: 3 ----- False
+015 Task ID: 4  pr: 15 ----- False
+*********************
+016 Task ID: 3  pr: 0 ----- True
+016 Task ID: 0  pr: 1 ----- False
+016 Task ID: 1  pr: 2 ----- False
+016 Task ID: 2  pr: 3 ----- False
+016 Task ID: 4  pr: 15 ----- False
+*********************
+017 Task ID: 3  pr: 0 ----- True
+017 Task ID: 0  pr: 0 ----- True
+017 Task ID: 1  pr: 2 ----- False
+017 Task ID: 2  pr: 3 ----- False
+017 Task ID: 4  pr: 15 ----- False
+*********************
+018 Task ID: 3  pr: 0 ----- True
+018 Task ID: 0  pr: 0 ----- True
+018 Task ID: 1  pr: 1 ----- False
+018 Task ID: 2  pr: 3 ----- False
+018 Task ID: 4  pr: 15 ----- False
+*********************
+019 Task ID: 3  pr: 0 ----- True
+019 Task ID: 0  pr: 0 ----- True
+019 Task ID: 1  pr: 0 ----- True
+019 Task ID: 2  pr: 3 ----- False
+019 Task ID: 4  pr: 15 ----- False
+*********************
+020 Task ID: 3  pr: 0 ----- True
+020 Task ID: 0  pr: 0 ----- True
+020 Task ID: 1  pr: 0 ----- True
+020 Task ID: 2  pr: 2 ----- False
+020 Task ID: 4  pr: 15 ----- False
+*********************
+021 Task ID: 3  pr: 0 ----- True
+ Task 2 is preemptive by Task 0
+021 Task ID: 0  pr: 4 ----- False
+021 Task ID: 1  pr: 0 ----- True
+021 Task ID: 2  pr: 2 ----- False
+021 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 0 is preemptive by Task 3
+022 Task ID: 3  pr: 1 ----- False
+022 Task ID: 0  pr: 4 ----- False
+022 Task ID: 1  pr: 0 ----- True
+022 Task ID: 2  pr: 2 ----- False
+022 Task ID: 4  pr: 15 ----- False
+*********************
+023 Task ID: 3  pr: 0 ----- True
+023 Task ID: 0  pr: 4 ----- False
+023 Task ID: 1  pr: 0 ----- True
+023 Task ID: 2  pr: 2 ----- False
+023 Task ID: 4  pr: 15 ----- False
+*********************
+024 Task ID: 3  pr: 0 ----- True
+024 Task ID: 0  pr: 3 ----- False
+024 Task ID: 1  pr: 0 ----- True
+024 Task ID: 2  pr: 2 ----- False
+024 Task ID: 4  pr: 15 ----- False
+*********************
+025 Task ID: 3  pr: 0 ----- True
+025 Task ID: 0  pr: 2 ----- False
+025 Task ID: 1  pr: 2 ----- False
+025 Task ID: 2  pr: 2 ----- False
+025 Task ID: 4  pr: 15 ----- False
+*********************
+026 Task ID: 3  pr: 0 ----- True
+026 Task ID: 0  pr: 1 ----- False
+026 Task ID: 1  pr: 2 ----- False
+026 Task ID: 2  pr: 2 ----- False
+026 Task ID: 4  pr: 15 ----- False
+*********************
+027 Task ID: 3  pr: 0 ----- True
+027 Task ID: 0  pr: 0 ----- True
+027 Task ID: 1  pr: 2 ----- False
+027 Task ID: 2  pr: 2 ----- False
+027 Task ID: 4  pr: 15 ----- False
+*********************
+028 Task ID: 3  pr: 0 ----- True
+028 Task ID: 0  pr: 0 ----- True
+028 Task ID: 1  pr: 1 ----- False
+028 Task ID: 2  pr: 2 ----- False
+028 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 1 is preemptive by Task 3
+029 Task ID: 3  pr: 1 ----- False
+029 Task ID: 0  pr: 0 ----- True
+029 Task ID: 1  pr: 1 ----- False
+029 Task ID: 2  pr: 2 ----- False
+029 Task ID: 4  pr: 15 ----- False
+*********************
+030 Task ID: 3  pr: 0 ----- True
+030 Task ID: 0  pr: 0 ----- True
+030 Task ID: 1  pr: 1 ----- False
+030 Task ID: 2  pr: 2 ----- False
+030 Task ID: 4  pr: 15 ----- False
+*********************
+031 Task ID: 3  pr: 0 ----- True
+031 Task ID: 0  pr: 4 ----- False
+031 Task ID: 1  pr: 1 ----- False
+031 Task ID: 2  pr: 2 ----- False
+031 Task ID: 4  pr: 15 ----- False
+*********************
+032 Task ID: 3  pr: 0 ----- True
+032 Task ID: 0  pr: 3 ----- False
+032 Task ID: 1  pr: 1 ----- False
+032 Task ID: 2  pr: 2 ----- False
+032 Task ID: 4  pr: 15 ----- False
+*********************
+033 Task ID: 3  pr: 0 ----- True
+033 Task ID: 0  pr: 2 ----- False
+033 Task ID: 1  pr: 1 ----- False
+033 Task ID: 2  pr: 2 ----- False
+033 Task ID: 4  pr: 15 ----- False
+*********************
+034 Task ID: 3  pr: 0 ----- True
+034 Task ID: 0  pr: 1 ----- False
+034 Task ID: 1  pr: 1 ----- False
+034 Task ID: 2  pr: 2 ----- False
+034 Task ID: 4  pr: 15 ----- False
+*********************
+035 Task ID: 3  pr: 0 ----- True
+035 Task ID: 0  pr: 0 ----- True
+035 Task ID: 1  pr: 1 ----- False
+035 Task ID: 2  pr: 2 ----- False
+035 Task ID: 4  pr: 15 ----- False
+*********************
+036 Task ID: 3  pr: 1 ----- False
+036 Task ID: 0  pr: 0 ----- True
+036 Task ID: 1  pr: 1 ----- False
+036 Task ID: 2  pr: 2 ----- False
+036 Task ID: 4  pr: 15 ----- False
+*********************
+037 Task ID: 3  pr: 0 ----- True
+037 Task ID: 0  pr: 0 ----- True
+037 Task ID: 1  pr: 2 ----- False
+037 Task ID: 2  pr: 2 ----- False
+037 Task ID: 4  pr: 15 ----- False
+*********************
+038 Task ID: 3  pr: 0 ----- True
+038 Task ID: 0  pr: 0 ----- True
+038 Task ID: 1  pr: 1 ----- False
+038 Task ID: 2  pr: 2 ----- False
+038 Task ID: 4  pr: 15 ----- False
+*********************
+039 Task ID: 3  pr: 0 ----- True
+039 Task ID: 0  pr: 0 ----- True
+039 Task ID: 1  pr: 0 ----- True
+039 Task ID: 2  pr: 2 ----- False
+039 Task ID: 4  pr: 15 ----- False
+*********************
+040 Task ID: 3  pr: 0 ----- True
+040 Task ID: 0  pr: 0 ----- True
+040 Task ID: 1  pr: 0 ----- True
+040 Task ID: 2  pr: 1 ----- False
+040 Task ID: 4  pr: 15 ----- False
+*********************
+041 Task ID: 3  pr: 0 ----- True
+ Task 2 is preemptive by Task 0
+041 Task ID: 0  pr: 4 ----- False
+041 Task ID: 1  pr: 0 ----- True
+041 Task ID: 2  pr: 3 ----- False
+041 Task ID: 4  pr: 15 ----- False
+*********************
+042 Task ID: 3  pr: 0 ----- True
+042 Task ID: 0  pr: 3 ----- False
+042 Task ID: 1  pr: 0 ----- True
+042 Task ID: 2  pr: 3 ----- False
+042 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 0 is preemptive by Task 3
+043 Task ID: 3  pr: 1 ----- False
+043 Task ID: 0  pr: 3 ----- False
+043 Task ID: 1  pr: 0 ----- True
+043 Task ID: 2  pr: 3 ----- False
+043 Task ID: 4  pr: 15 ----- False
+*********************
+044 Task ID: 3  pr: 0 ----- True
+044 Task ID: 0  pr: 3 ----- False
+044 Task ID: 1  pr: 0 ----- True
+044 Task ID: 2  pr: 3 ----- False
+044 Task ID: 4  pr: 15 ----- False
+*********************
+045 Task ID: 3  pr: 0 ----- True
+045 Task ID: 0  pr: 2 ----- False
+045 Task ID: 1  pr: 0 ----- True
+045 Task ID: 2  pr: 3 ----- False
+045 Task ID: 4  pr: 15 ----- False
+*********************
+046 Task ID: 3  pr: 0 ----- True
+046 Task ID: 0  pr: 1 ----- False
+046 Task ID: 1  pr: 0 ----- True
+046 Task ID: 2  pr: 3 ----- False
+046 Task ID: 4  pr: 15 ----- False
+*********************
+047 Task ID: 3  pr: 0 ----- True
+047 Task ID: 0  pr: 0 ----- True
+047 Task ID: 1  pr: 0 ----- True
+047 Task ID: 2  pr: 3 ----- False
+047 Task ID: 4  pr: 15 ----- False
+*********************
+048 Task ID: 3  pr: 0 ----- True
+048 Task ID: 0  pr: 0 ----- True
+048 Task ID: 1  pr: 0 ----- True
+048 Task ID: 2  pr: 2 ----- False
+048 Task ID: 4  pr: 15 ----- False
+*********************
+049 Task ID: 3  pr: 0 ----- True
+049 Task ID: 0  pr: 0 ----- True
+ Task 2 is preemptive by Task 1
+049 Task ID: 1  pr: 1 ----- False
+049 Task ID: 2  pr: 2 ----- False
+049 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 1 is preemptive by Task 3
+050 Task ID: 3  pr: 1 ----- False
+050 Task ID: 0  pr: 0 ----- True
+050 Task ID: 1  pr: 1 ----- False
+050 Task ID: 2  pr: 2 ----- False
+050 Task ID: 4  pr: 15 ----- False
+*********************
+051 Task ID: 3  pr: 0 ----- True
+051 Task ID: 0  pr: 5 ----- False
+051 Task ID: 1  pr: 1 ----- False
+051 Task ID: 2  pr: 2 ----- False
+051 Task ID: 4  pr: 15 ----- False
+*********************
+052 Task ID: 3  pr: 0 ----- True
+052 Task ID: 0  pr: 4 ----- False
+052 Task ID: 1  pr: 1 ----- False
+052 Task ID: 2  pr: 2 ----- False
+052 Task ID: 4  pr: 15 ----- False
+*********************
+053 Task ID: 3  pr: 0 ----- True
+053 Task ID: 0  pr: 3 ----- False
+053 Task ID: 1  pr: 1 ----- False
+053 Task ID: 2  pr: 2 ----- False
+053 Task ID: 4  pr: 15 ----- False
+*********************
+054 Task ID: 3  pr: 0 ----- True
+054 Task ID: 0  pr: 2 ----- False
+054 Task ID: 1  pr: 1 ----- False
+054 Task ID: 2  pr: 2 ----- False
+054 Task ID: 4  pr: 15 ----- False
+*********************
+055 Task ID: 3  pr: 0 ----- True
+055 Task ID: 0  pr: 1 ----- False
+055 Task ID: 1  pr: 1 ----- False
+055 Task ID: 2  pr: 2 ----- False
+055 Task ID: 4  pr: 15 ----- False
+*********************
+056 Task ID: 3  pr: 0 ----- True
+056 Task ID: 0  pr: 0 ----- True
+056 Task ID: 1  pr: 1 ----- False
+056 Task ID: 2  pr: 2 ----- False
+056 Task ID: 4  pr: 15 ----- False
+*********************
+057 Task ID: 3  pr: 1 ----- False
+057 Task ID: 0  pr: 0 ----- True
+057 Task ID: 1  pr: 1 ----- False
+057 Task ID: 2  pr: 2 ----- False
+057 Task ID: 4  pr: 15 ----- False
+*********************
+058 Task ID: 3  pr: 0 ----- True
+058 Task ID: 0  pr: 0 ----- True
+058 Task ID: 1  pr: 1 ----- False
+058 Task ID: 2  pr: 2 ----- False
+058 Task ID: 4  pr: 15 ----- False
+*********************
+059 Task ID: 3  pr: 0 ----- True
+059 Task ID: 0  pr: 0 ----- True
+059 Task ID: 1  pr: 0 ----- True
+059 Task ID: 2  pr: 2 ----- False
+059 Task ID: 4  pr: 15 ----- False
+*********************
+060 Task ID: 3  pr: 0 ----- True
+060 Task ID: 0  pr: 0 ----- True
+060 Task ID: 1  pr: 0 ----- True
+ Task 1 is preemptive by Task 2
+060 Task ID: 2  pr: 1 ----- False
+060 Task ID: 4  pr: 15 ----- False
+*********************
+061 Task ID: 3  pr: 0 ----- True
+ Task 2 is preemptive by Task 0
+061 Task ID: 0  pr: 4 ----- False
+061 Task ID: 1  pr: 2 ----- False
+061 Task ID: 2  pr: 1 ----- False
+061 Task ID: 4  pr: 15 ----- False
+*********************
+062 Task ID: 3  pr: 0 ----- True
+062 Task ID: 0  pr: 3 ----- False
+062 Task ID: 1  pr: 2 ----- False
+062 Task ID: 2  pr: 1 ----- False
+062 Task ID: 4  pr: 15 ----- False
+*********************
+063 Task ID: 3  pr: 0 ----- True
+063 Task ID: 0  pr: 2 ----- False
+063 Task ID: 1  pr: 2 ----- False
+063 Task ID: 2  pr: 1 ----- False
+063 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 0 is preemptive by Task 3
+064 Task ID: 3  pr: 1 ----- False
+064 Task ID: 0  pr: 2 ----- False
+064 Task ID: 1  pr: 2 ----- False
+064 Task ID: 2  pr: 1 ----- False
+064 Task ID: 4  pr: 15 ----- False
+*********************
+065 Task ID: 3  pr: 0 ----- True
+065 Task ID: 0  pr: 2 ----- False
+065 Task ID: 1  pr: 2 ----- False
+065 Task ID: 2  pr: 1 ----- False
+065 Task ID: 4  pr: 15 ----- False
+*********************
+066 Task ID: 3  pr: 0 ----- True
+066 Task ID: 0  pr: 1 ----- False
+066 Task ID: 1  pr: 2 ----- False
+066 Task ID: 2  pr: 1 ----- False
+066 Task ID: 4  pr: 15 ----- False
+*********************
+067 Task ID: 3  pr: 0 ----- True
+067 Task ID: 0  pr: 0 ----- True
+067 Task ID: 1  pr: 2 ----- False
+067 Task ID: 2  pr: 1 ----- False
+067 Task ID: 4  pr: 15 ----- False
+*********************
+068 Task ID: 3  pr: 0 ----- True
+068 Task ID: 0  pr: 0 ----- True
+068 Task ID: 1  pr: 1 ----- False
+068 Task ID: 2  pr: 1 ----- False
+068 Task ID: 4  pr: 15 ----- False
+*********************
+069 Task ID: 3  pr: 0 ----- True
+069 Task ID: 0  pr: 0 ----- True
+069 Task ID: 1  pr: 0 ----- True
+069 Task ID: 2  pr: 1 ----- False
+069 Task ID: 4  pr: 15 ----- False
+*********************
+070 Task ID: 3  pr: 0 ----- True
+070 Task ID: 0  pr: 0 ----- True
+070 Task ID: 1  pr: 0 ----- True
+070 Task ID: 2  pr: 0 ----- True
+070 Task ID: 4  pr: 15 ----- False
+*********************
+071 Task ID: 3  pr: 1 ----- False
+071 Task ID: 0  pr: 5 ----- False
+071 Task ID: 1  pr: 0 ----- True
+071 Task ID: 2  pr: 0 ----- True
+071 Task ID: 4  pr: 15 ----- False
+*********************
+072 Task ID: 3  pr: 0 ----- True
+072 Task ID: 0  pr: 5 ----- False
+072 Task ID: 1  pr: 0 ----- True
+072 Task ID: 2  pr: 0 ----- True
+072 Task ID: 4  pr: 15 ----- False
+*********************
+073 Task ID: 3  pr: 0 ----- True
+073 Task ID: 0  pr: 4 ----- False
+073 Task ID: 1  pr: 2 ----- False
+073 Task ID: 2  pr: 0 ----- True
+073 Task ID: 4  pr: 15 ----- False
+*********************
+074 Task ID: 3  pr: 0 ----- True
+074 Task ID: 0  pr: 3 ----- False
+074 Task ID: 1  pr: 2 ----- False
+074 Task ID: 2  pr: 0 ----- True
+074 Task ID: 4  pr: 15 ----- False
+*********************
+075 Task ID: 3  pr: 0 ----- True
+075 Task ID: 0  pr: 2 ----- False
+075 Task ID: 1  pr: 2 ----- False
+075 Task ID: 2  pr: 0 ----- True
+075 Task ID: 4  pr: 15 ----- False
+*********************
+076 Task ID: 3  pr: 0 ----- True
+076 Task ID: 0  pr: 1 ----- False
+076 Task ID: 1  pr: 2 ----- False
+076 Task ID: 2  pr: 0 ----- True
+076 Task ID: 4  pr: 15 ----- False
+*********************
+077 Task ID: 3  pr: 0 ----- True
+077 Task ID: 0  pr: 0 ----- True
+077 Task ID: 1  pr: 2 ----- False
+077 Task ID: 2  pr: 0 ----- True
+077 Task ID: 4  pr: 15 ----- False
+*********************
+078 Task ID: 3  pr: 1 ----- False
+078 Task ID: 0  pr: 0 ----- True
+078 Task ID: 1  pr: 2 ----- False
+078 Task ID: 2  pr: 0 ----- True
+078 Task ID: 4  pr: 15 ----- False
+*********************
+079 Task ID: 3  pr: 0 ----- True
+079 Task ID: 0  pr: 0 ----- True
+079 Task ID: 1  pr: 2 ----- False
+079 Task ID: 2  pr: 0 ----- True
+079 Task ID: 4  pr: 15 ----- False
+*********************
+080 Task ID: 3  pr: 0 ----- True
+080 Task ID: 0  pr: 0 ----- True
+080 Task ID: 1  pr: 1 ----- False
+080 Task ID: 2  pr: 0 ----- True
+080 Task ID: 4  pr: 15 ----- False
+*********************
+081 Task ID: 3  pr: 0 ----- True
+ Task 1 is preemptive by Task 0
+081 Task ID: 0  pr: 4 ----- False
+081 Task ID: 1  pr: 1 ----- False
+081 Task ID: 2  pr: 3 ----- False
+081 Task ID: 4  pr: 15 ----- False
+*********************
+082 Task ID: 3  pr: 0 ----- True
+082 Task ID: 0  pr: 3 ----- False
+082 Task ID: 1  pr: 1 ----- False
+082 Task ID: 2  pr: 3 ----- False
+082 Task ID: 4  pr: 15 ----- False
+*********************
+083 Task ID: 3  pr: 0 ----- True
+083 Task ID: 0  pr: 2 ----- False
+083 Task ID: 1  pr: 1 ----- False
+083 Task ID: 2  pr: 3 ----- False
+083 Task ID: 4  pr: 15 ----- False
+*********************
+084 Task ID: 3  pr: 0 ----- True
+084 Task ID: 0  pr: 1 ----- False
+084 Task ID: 1  pr: 1 ----- False
+084 Task ID: 2  pr: 3 ----- False
+084 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 0 is preemptive by Task 3
+085 Task ID: 3  pr: 1 ----- False
+085 Task ID: 0  pr: 1 ----- False
+085 Task ID: 1  pr: 2 ----- False
+085 Task ID: 2  pr: 3 ----- False
+085 Task ID: 4  pr: 15 ----- False
+*********************
+086 Task ID: 3  pr: 0 ----- True
+086 Task ID: 0  pr: 1 ----- False
+086 Task ID: 1  pr: 2 ----- False
+086 Task ID: 2  pr: 3 ----- False
+086 Task ID: 4  pr: 15 ----- False
+*********************
+087 Task ID: 3  pr: 0 ----- True
+087 Task ID: 0  pr: 0 ----- True
+087 Task ID: 1  pr: 2 ----- False
+087 Task ID: 2  pr: 3 ----- False
+087 Task ID: 4  pr: 15 ----- False
+*********************
+088 Task ID: 3  pr: 0 ----- True
+088 Task ID: 0  pr: 0 ----- True
+088 Task ID: 1  pr: 1 ----- False
+088 Task ID: 2  pr: 3 ----- False
+088 Task ID: 4  pr: 15 ----- False
+*********************
+089 Task ID: 3  pr: 0 ----- True
+089 Task ID: 0  pr: 0 ----- True
+089 Task ID: 1  pr: 0 ----- True
+089 Task ID: 2  pr: 3 ----- False
+089 Task ID: 4  pr: 15 ----- False
+*********************
+090 Task ID: 3  pr: 0 ----- True
+090 Task ID: 0  pr: 0 ----- True
+090 Task ID: 1  pr: 0 ----- True
+090 Task ID: 2  pr: 2 ----- False
+090 Task ID: 4  pr: 15 ----- False
+*********************
+091 Task ID: 3  pr: 0 ----- True
+ Task 2 is preemptive by Task 0
+091 Task ID: 0  pr: 4 ----- False
+091 Task ID: 1  pr: 0 ----- True
+091 Task ID: 2  pr: 2 ----- False
+091 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 0 is preemptive by Task 3
+092 Task ID: 3  pr: 1 ----- False
+092 Task ID: 0  pr: 4 ----- False
+092 Task ID: 1  pr: 0 ----- True
+092 Task ID: 2  pr: 2 ----- False
+092 Task ID: 4  pr: 15 ----- False
+*********************
+093 Task ID: 3  pr: 0 ----- True
+093 Task ID: 0  pr: 4 ----- False
+093 Task ID: 1  pr: 0 ----- True
+093 Task ID: 2  pr: 2 ----- False
+093 Task ID: 4  pr: 15 ----- False
+*********************
+094 Task ID: 3  pr: 0 ----- True
+094 Task ID: 0  pr: 3 ----- False
+094 Task ID: 1  pr: 0 ----- True
+094 Task ID: 2  pr: 2 ----- False
+094 Task ID: 4  pr: 15 ----- False
+*********************
+095 Task ID: 3  pr: 0 ----- True
+095 Task ID: 0  pr: 2 ----- False
+095 Task ID: 1  pr: 0 ----- True
+095 Task ID: 2  pr: 2 ----- False
+095 Task ID: 4  pr: 15 ----- False
+*********************
+096 Task ID: 3  pr: 0 ----- True
+096 Task ID: 0  pr: 1 ----- False
+096 Task ID: 1  pr: 0 ----- True
+096 Task ID: 2  pr: 2 ----- False
+096 Task ID: 4  pr: 15 ----- False
+*********************
+097 Task ID: 3  pr: 0 ----- True
+097 Task ID: 0  pr: 0 ----- True
+097 Task ID: 1  pr: 2 ----- False
+097 Task ID: 2  pr: 2 ----- False
+097 Task ID: 4  pr: 15 ----- False
+*********************
+098 Task ID: 3  pr: 0 ----- True
+098 Task ID: 0  pr: 0 ----- True
+098 Task ID: 1  pr: 1 ----- False
+098 Task ID: 2  pr: 2 ----- False
+098 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 1 is preemptive by Task 3
+099 Task ID: 3  pr: 1 ----- False
+099 Task ID: 0  pr: 0 ----- True
+099 Task ID: 1  pr: 1 ----- False
+099 Task ID: 2  pr: 2 ----- False
+099 Task ID: 4  pr: 15 ----- False
+*********************
+100 Task ID: 3  pr: 0 ----- True
+100 Task ID: 0  pr: 0 ----- True
+100 Task ID: 1  pr: 1 ----- False
+100 Task ID: 2  pr: 2 ----- False
+100 Task ID: 4  pr: 15 ----- False
+*********************
+101 Task ID: 3  pr: 0 ----- True
+101 Task ID: 0  pr: 4 ----- False
+101 Task ID: 1  pr: 1 ----- False
+101 Task ID: 2  pr: 2 ----- False
+101 Task ID: 4  pr: 15 ----- False
+*********************
+102 Task ID: 3  pr: 0 ----- True
+102 Task ID: 0  pr: 3 ----- False
+102 Task ID: 1  pr: 1 ----- False
+102 Task ID: 2  pr: 2 ----- False
+102 Task ID: 4  pr: 15 ----- False
+*********************
+103 Task ID: 3  pr: 0 ----- True
+103 Task ID: 0  pr: 2 ----- False
+103 Task ID: 1  pr: 1 ----- False
+103 Task ID: 2  pr: 2 ----- False
+103 Task ID: 4  pr: 15 ----- False
+*********************
+104 Task ID: 3  pr: 0 ----- True
+104 Task ID: 0  pr: 1 ----- False
+104 Task ID: 1  pr: 1 ----- False
+104 Task ID: 2  pr: 2 ----- False
+104 Task ID: 4  pr: 15 ----- False
+*********************
+105 Task ID: 3  pr: 0 ----- True
+105 Task ID: 0  pr: 0 ----- True
+105 Task ID: 1  pr: 1 ----- False
+105 Task ID: 2  pr: 2 ----- False
+105 Task ID: 4  pr: 15 ----- False
+*********************
+106 Task ID: 3  pr: 1 ----- False
+106 Task ID: 0  pr: 0 ----- True
+106 Task ID: 1  pr: 1 ----- False
+106 Task ID: 2  pr: 2 ----- False
+106 Task ID: 4  pr: 15 ----- False
+*********************
+107 Task ID: 3  pr: 0 ----- True
+107 Task ID: 0  pr: 0 ----- True
+107 Task ID: 1  pr: 1 ----- False
+107 Task ID: 2  pr: 2 ----- False
+107 Task ID: 4  pr: 15 ----- False
+*********************
+108 Task ID: 3  pr: 0 ----- True
+108 Task ID: 0  pr: 0 ----- True
+108 Task ID: 1  pr: 0 ----- True
+108 Task ID: 2  pr: 2 ----- False
+108 Task ID: 4  pr: 15 ----- False
+*********************
+109 Task ID: 3  pr: 0 ----- True
+109 Task ID: 0  pr: 0 ----- True
+109 Task ID: 1  pr: 1 ----- False
+109 Task ID: 2  pr: 2 ----- False
+109 Task ID: 4  pr: 15 ----- False
+*********************
+110 Task ID: 3  pr: 0 ----- True
+110 Task ID: 0  pr: 0 ----- True
+110 Task ID: 1  pr: 0 ----- True
+110 Task ID: 2  pr: 2 ----- False
+110 Task ID: 4  pr: 15 ----- False
+*********************
+111 Task ID: 3  pr: 0 ----- True
+111 Task ID: 0  pr: 4 ----- False
+111 Task ID: 1  pr: 0 ----- True
+111 Task ID: 2  pr: 2 ----- False
+111 Task ID: 4  pr: 15 ----- False
+*********************
+112 Task ID: 3  pr: 0 ----- True
+112 Task ID: 0  pr: 3 ----- False
+112 Task ID: 1  pr: 0 ----- True
+112 Task ID: 2  pr: 2 ----- False
+112 Task ID: 4  pr: 15 ----- False
+*********************
+ Task 0 is preemptive by Task 3
+113 Task ID: 3  pr: 1 ----- False
+113 Task ID: 0  pr: 3 ----- False
+113 Task ID: 1  pr: 0 ----- True
+113 Task ID: 2  pr: 2 ----- False
+113 Task ID: 4  pr: 15 ----- False
+*********************
+114 Task ID: 3  pr: 0 ----- True
+114 Task ID: 0  pr: 3 ----- False
+114 Task ID: 1  pr: 0 ----- True
+114 Task ID: 2  pr: 2 ----- False
+114 Task ID: 4  pr: 15 ----- False
+*********************
+115 Task ID: 3  pr: 0 ----- True
+115 Task ID: 0  pr: 2 ----- False
+115 Task ID: 1  pr: 0 ----- True
+115 Task ID: 2  pr: 2 ----- False
+115 Task ID: 4  pr: 15 ----- False
+*********************
+116 Task ID: 3  pr: 0 ----- True
+116 Task ID: 0  pr: 1 ----- False
+116 Task ID: 1  pr: 0 ----- True
+116 Task ID: 2  pr: 2 ----- False
+116 Task ID: 4  pr: 15 ----- False
+*********************
+117 Task ID: 3  pr: 0 ----- True
+117 Task ID: 0  pr: 0 ----- True
+117 Task ID: 1  pr: 0 ----- True
+117 Task ID: 2  pr: 2 ----- False
+117 Task ID: 4  pr: 15 ----- False
+*********************
+118 Task ID: 3  pr: 0 ----- True
+118 Task ID: 0  pr: 0 ----- True
+118 Task ID: 1  pr: 0 ----- True
+118 Task ID: 2  pr: 1 ----- False
+118 Task ID: 4  pr: 15 ----- False
+*********************
+119 Task ID: 3  pr: 0 ----- True
+119 Task ID: 0  pr: 0 ----- True
+119 Task ID: 1  pr: 0 ----- True
+119 Task ID: 2  pr: 0 ----- True
+119 Task ID: 4  pr: 15 ----- False
+*********************
+Task 3 missed the deadline at time 120
+Task 4 missed the deadline at time 120
+*********************
+End of RM 
+Number of preemptives: 18
+Number of deadline misses: 7
+The task 3 was preempted 0 times and missed 1 deadlines
+The task 0 was preempted 7 times and missed 0 deadlines
+The task 1 was preempted 6 times and missed 3 deadlines
+The task 2 was preempted 5 times and missed 1 deadlines
+The task 4 was preempted 0 times and missed 2 deadlines
